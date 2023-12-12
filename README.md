@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals - modified 12/12/2023 by John Watne
 
 Repo for the `GitHub Actions Fundamentals` training.
 
