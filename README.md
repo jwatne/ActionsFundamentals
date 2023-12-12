@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals - modified 12/12/2023 by John Watne
+# Then try skip ci commit.
 
 Repo for the `GitHub Actions Fundamentals` training.
 
